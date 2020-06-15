@@ -1,4 +1,4 @@
-Welcome to Linux World Cloud
+Welcome to Harshit's Cloud
 <br />
 <pre>
 <?php
@@ -6,4 +6,4 @@ Welcome to Linux World Cloud
 print `ifconfig`;
 
 /?>
-</pre?
+</pre>
